@@ -1,0 +1,9 @@
+{
+  "name": "Gokul",
+  "version": "1.0.0",
+  "description": "Gokul gklsan",
+  "main": "index.js",
+  "repository": "https://github.com/gklsan",
+  "author": "Gokul",
+  "license": "MIT"
+}
