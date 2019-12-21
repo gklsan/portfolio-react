@@ -7,7 +7,7 @@
   "author": "Gokul",
   "license": "MIT",
   "scripts": {
-    "start": "webpack-dev-server --open",
+    "start": "webpack-dev-server --open --port 3000",
     "build": "webpack"
   },
   "dependencies": {
