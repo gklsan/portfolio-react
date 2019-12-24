@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import SideBar from "./SideBar";
 
 const Page = () => (
-  <div className="row">
+  <div className="h-100 row align-items-center">
     <SideBar/>
     <h2 className="col-md-7">
       Other text Other text Other text Other text Other text Other text Other text Other
